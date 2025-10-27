@@ -168,4 +168,4 @@ export { default as TestBottomTabs } from './TestBottomTabs';
 export { default as TestScreenStack } from './TestScreenStack';
 export { default as TestSplitView } from './TestSplitView';
 export { default as TestSafeAreaViewIOS } from './TestSafeAreaViewIOS';
-export { default as TestLayout } from './TestLayout';
+export { default as Test3345 } from './Test3345';
